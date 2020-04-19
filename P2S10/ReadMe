@@ -1,0 +1,2 @@
+I Have to change the Map.py variables to suit the car environment. I have figured out how to give the image of the car wet to the sand for the TD3
+algorithm to work with , but first need to solve the environment problem. Will be working on it qafter submission also. Thank you 
